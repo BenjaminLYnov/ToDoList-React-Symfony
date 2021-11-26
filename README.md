@@ -1,7 +1,7 @@
 Prerequis :
 synfony and node npm
 
-To run this app : 
+To run this app : \
 symfony server:start \
 npm run watch
 
