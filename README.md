@@ -10,7 +10,7 @@ Or launch RunApp.py
 Dont forget add database with file BDD/node.sql and change BDD config about connection to BDD in file src/Controller/DefaultController.php
 
 
-This app is a replica of my ToDoList-React-NodeJS but in version Synfony.
+This app is a replica of my ToDoList-React-NodeJS but in version Symfony.
 
 There is a video demonstration about this app you can find here : 
 https://github.com/BenjaminLYnov/ToDoList-React-NodeJS/blob/master/Video%20Demonstration.mp4
