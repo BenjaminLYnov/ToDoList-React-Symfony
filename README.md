@@ -2,7 +2,7 @@ Prerequis :
 synfony and node npm
 
 To run this app : 
-symfony server:start
+symfony server:start \
 npm run watch
 
 Or launch RunApp.py
